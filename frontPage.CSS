@@ -1,0 +1,35 @@
+
+
+body{
+	background-image: url("https://images.unsplash.com/photo-1560311144-602d9657890b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80");
+	background-size: cover;
+}
+nav{
+	
+}
+section {
+	display: block;
+}
+h1 {
+	 display: table;
+	 border: 5px solid green;
+	 border-radius: 25px;
+	 background-color: green;
+	 color:white;
+	 margin:0 auto;
+}
+.b ul{
+	display: block;
+	text-align: right;
+}
+
+
+.b li{
+	display: inline-block;
+	list-style: none;
+}
+.c img{
+	 position: absolute;
+     right: 50px;
+
+}
